@@ -2,8 +2,7 @@
 
 ## Overview
 
-This repository contains code and resources for classifying radio halos using data from the Murchison Widefield Array (MWA). The project utilizes a Conditional Wasserstein GAN (cWGAN) for generating synthetic data and evaluating the model's performance.
-
+This repository contains code and resources for classifying radio halos using data from the Murchison Widefield Array (MWA). The project utilizes a Conditional Wasserstein GAN (cWGAN) and Denoising Diffusion Probabilistic Models (DDPMs) for generating synthetic data to enhance the radio halo classifier.
 ## Project Structure
 
 - **`DDPM/`**: Contains files related to the Denoising Diffusion Probabilistic Models (DDPM) used in this project.
