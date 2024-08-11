@@ -444,7 +444,7 @@ def build_model(
     # End block
     x = tfa.layers.GroupNormalization(groups=norm_groups)(x)
     x = activation_fn(x)
-    x = layers.Conv2D(4, (3, 3), padding="same", kernel_initializer=kernel_init(0.0))(x)
+    x = layers.Conv2D(1, (3, 3), padding="same", kernel_initializer=kernel_init(0.0))(x)
     return keras.Model([image_input, time_input], x, name="unet")
 
 #train_ds
