@@ -26,7 +26,7 @@ norm_groups = 8  # Number of groups used in GroupNormalization layer
 learning_rate = 2e-4
 
 img_size = 64
-img_channels = 4
+img_channels = 1
 clip_min = -1.0
 clip_max = 1.0
 
