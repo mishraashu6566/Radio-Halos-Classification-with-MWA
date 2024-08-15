@@ -1,2 +1,8 @@
 This is to mention that the actual read_me file for this directory is ReadMe
 taken from the actual catalogue site 'https://cdsarc.u-strasbg.fr/ftp/cats/J/A+A/594/A27/' for reference.
+
+The table 'matched_sources_with_serial.fits' contains all the sources in 
+the psz2.dat.txt that are classified true by our trained classifier. But most of
+them may not contain diffuse emission as just halos. The format of this table file is 
+exactly same as the psz2.dat.txt. So refer ReadMe.txt for understanding which column correponds
+what.
