@@ -7,7 +7,7 @@ This repository contains code and resources for classifying radio halos using da
 
 - **`DDPM/`**: Contains files related to the Denoising Diffusion Probabilistic Models (DDPM) used in this project. The DDPM weights can be found in the [Releases](https://github.com/mishraashu6566/Radio-Halos-Classification-with-MWA/releases) section of this repository.
 - **`Data_for_Gen_Model_Evaluation/`**: Includes datasets used for evaluating the generative model.
-- **`Halo-data/`**: Contains the raw data related to radio halos.
+- **`GlEAM-data/`**: Contains the raw GLEAM data related to radio halos.
 - **`cWGAN/`**: Includes the code and resources for the Conditional Wasserstein GAN (cWGAN) implementation.
 - **`Halo_data/`**: Directory for additional halo data.
 - **`LICENSE`**: License file for the project.
