@@ -9,7 +9,7 @@ This repository contains code and resources for classifying radio halos using da
 - **`Data_for_Gen_Model_Evaluation/`**: Includes datasets used for evaluating the generative model.
 - **`GlEAM-data/`**: Contains the raw GLEAM data related to radio halos.
 - **`cWGAN/`**: Includes the code and resources for the Conditional Wasserstein GAN (cWGAN) implementation.
-- **`Halo_data/`**: Directory for additional halo data.
+- **`Additional_sources_classified_true/`**: Directory for additional sources classified as true for the PSZ2 Catalogue saved as .fits table.
 - **`LICENSE`**: License file for the project.
 - **`cwgann3-gen.model`**: Pre-trained model file for generating synthetic data.
 
